@@ -1,6 +1,6 @@
 {
     "name": "contao-components/jquery",
-    "type": "component",
+    "type": "contao-component",
     "description": "jQuery integration for Contao Open Source CMS",
     "license": "MIT",
     "authors": [
@@ -10,13 +10,6 @@
         }
     ],
     "require": {
-        "robloach/component-installer": "~0.0"
-    },
-    "extra": {
-        "component": {
-            "scripts": [
-                "js/jquery.min.js"
-            ]
-        }
+        "contao-components/installer": "~1.0"
     }
 }
