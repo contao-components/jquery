@@ -1,12 +1,12 @@
 {
     "name": "contao-components/jquery",
-    "type": "contao-component",
     "description": "jQuery integration for Contao Open Source CMS",
     "license": "MIT",
+    "type": "contao-component",
     "authors": [
         {
-            "name": "Leo Feyer",
-            "homepage": "https://github.com/leofeyer"
+            "name": "OpenJS Foundation and other contributors",
+            "homepage": "https://github.com/jquery/jquery/blob/main/AUTHORS.txt"
         }
     ],
     "require": {
